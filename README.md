@@ -26,3 +26,22 @@ The analysis of the election shows that:
     * Raymon Anthony Doane recieved 3.1% of the vote and 11,606 number of votes.
 - The winner of the election was:
     * Diana DeGette who recieved 73.8% of the vote and 272,892 number of votes. 
+## Overview of Election Audit
+The purpose of this election audit was to automate the process of finding the voter turnout for this elecation as well as the percentage of each counties voter turnout for the whole elction and which county had the highest voter turnout. 
+## Election-Audit Results
+* How many votes were cast in this congressional election?
+- 369,711
+* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+- Denver county had a voter turnout 306,055 which is the highest voter turn out of the three counties and accounts for 82.8% of the votes cast in the election. 
+- Jefferson had the second largest turn out with 38,855 votes which accounts for 10.5% of the votes cast. 
+- Arapahoe had the least voter turn out with 24,801 votes and 6.7% of the total votes cast. 
+* Which county had the largest number of votes?
+- Denver county with 306,055 votes.
+* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+- Diana DeGette had the most votes with 272,892 votes and 73.8% of the total votes cast.
+- Charles Casper Stockham gained 85,213 votes and 23% of the total vote.
+- Raymon Anthony Doane earned 11,606 votes and 3.1% of the total vote. 
+* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+- Diana Degette with 272,892 votes which accounts for 73.8% of the total vote. 
+* Election-Audit Summary
+- The program can be used for any election given the same information of a geographical location and candidates. What may need to be changed to better suit its use for other elections would be changing the code to provide more information based on heographical loacation and craeting a script that allows you to see which candidate wass most popular in which counties. 
